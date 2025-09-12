@@ -22,7 +22,7 @@ const Main = () => {
     ?<>
 {/* If show result is not true it will return this */}
 <div className="greet">
-        <p><span>Hello , Ayush.</span></p>
+        <p><span>Hello , User.</span></p>
         <p>How Can i help you , Today?</p>
       </div>
       <div className="cards">
